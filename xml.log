@@ -1,0 +1,386 @@
+03.11 12.39.19 DEBUG	ru.sfedu.Client:33 - Project starting application.......
+03.11 12.39.19  INFO	ru.sfedu.Client:34 - nana
+03.11 12.39.19  INFO	ru.sfedu.Client:35 - tada
+03.11 12.39.19  INFO	ru.sfedu.Client:36 - null
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
+03.11 12.40.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.40.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
+03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer Buchanan
+03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Kate
+03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Kate
+03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 12.53.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.53.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 12.54.30 DEBUG	ru.sfedu.Client:33 - Project starting application.......
+03.11 12.54.30  INFO	ru.sfedu.Client:34 - nana
+03.11 12.54.30  INFO	ru.sfedu.Client:35 - tada
+03.11 12.54.30  INFO	ru.sfedu.Client:36 - null
+03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer Buchanan
+03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.35.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.35.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.35.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.35.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.37.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.37.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.43.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.43.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.44.25  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.44.25  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
+03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.31.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.31.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
+03.11 14.37.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
+03.11 14.37.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.37.37  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.37.37  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.38.19 DEBUG	ru.sfedu.Client:33 - Project starting application.......
+03.11 14.38.19  INFO	ru.sfedu.Client:34 - nana
+03.11 14.38.19  INFO	ru.sfedu.Client:35 - tada
+03.11 14.38.19  INFO	ru.sfedu.Client:36 - null
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
+03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
+03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
+03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
+03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
+03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
+03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
+03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
+03.11 14.49.29 DEBUG	ru.sfedu.Client:33 - Project starting application.......
+03.11 14.49.29  INFO	ru.sfedu.Client:34 - nana
+03.11 14.49.29  INFO	ru.sfedu.Client:35 - tada
+03.11 14.49.29  INFO	ru.sfedu.Client:36 - null
