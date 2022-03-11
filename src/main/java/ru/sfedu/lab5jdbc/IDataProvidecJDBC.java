@@ -1,2 +1,7 @@
-package ru.sfedu.lab5jdbc;public interface IDataProvidecJDBC {
+package ru.sfedu.lab5jdbc;
+
+public interface IDataProvidecJDBC {
+
+
+
 }

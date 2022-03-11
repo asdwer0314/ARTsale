@@ -4,16 +4,17 @@ package ru.sfedu.lab6Mongo;
 import java.util.List;
 import java.util.Objects;
 
-public class Pojo implements AbsPojo{
+public class Product implements AbsProducts{
 
     private int _id ;
     private String name;
-    private Role role;
-    private List<AbsPojo> mirror;
+    private Sphere  sphere;
+    private List<AbsProducts> mirror;
 
-    public Pojo(){}
 
-    enum Role    {
+    public Product(){}
+
+    enum Sphere    {
         nana,
         lala,
         haha,
@@ -21,42 +22,26 @@ public class Pojo implements AbsPojo{
         gaga;
     }
 
-    public Pojo(int _id, String name, Role role, List<AbsPojo> mirror) {
+    public Product(int _id, String name, Sphere sphere, List<AbsProducts> mirror) {
         this._id = _id;
         this.name = name;
-        this.role = role;
+        this.sphere = sphere;
         this.mirror = mirror;
     }
 
     public int get_id() {
         return _id;
     }
+
     public void set_id(int _id) {
         this._id = _id;
     }
 
+
+    @Override
     public String getName() {
         return name;
     }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Role getRole() {
-        return role;
-    }
-    public void setRole(Role role) {
-        this.role = role;
-    }
-
-    public List<AbsPojo> getMirror() {
-        return mirror;
-    }
-    public void setMirror(List<AbsPojo> mirror) {
-        this.mirror = mirror;
-    }
-
 
     @Override
     public int getId() {
@@ -64,22 +49,40 @@ public class Pojo implements AbsPojo{
     }
 
     @Override
-    public AbsPojo Mirror() {
+    public AbsProducts Mirror() {
         return null;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Sphere getSphere() {
+        return sphere;
+    }
+
+    public void setSphere(Sphere sphere) {
+        this.sphere = sphere;
+    }
+
+    public List<AbsProducts> getMirror() {
+        return mirror;
+    }
+
+    public void setMirror(List<AbsProducts> mirror) {
+        this.mirror = mirror;
     }
 
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof Pojo)) return false;
-        Pojo pojo = (Pojo) o;
-        return get_id() == pojo.get_id() && getName()
-                .equals(pojo.getName()) && getRole() == pojo.getRole() && getMirror()
-                .equals(pojo.getMirror());
+        if (!(o instanceof Product)) return false;
+        Product product = (Product) o;
+        return _id == product._id && getName().equals(product.getName()) && sphere == product.sphere && mirror.equals(product.mirror);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(get_id(), getName(), getRole(), getMirror());
+        return Objects.hash(_id, getName(), sphere, mirror);
     }
 }

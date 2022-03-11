@@ -1,2 +1,8 @@
-package ru.sfedu.lab5jdbc;public class Orders {
+package ru.sfedu.lab5jdbc;
+
+public class Orders {
+
+
+
+
 }

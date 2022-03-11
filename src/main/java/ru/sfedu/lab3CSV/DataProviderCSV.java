@@ -12,9 +12,11 @@ import ru.sfedu.Constants;
 import java.io.*;
 import java.util.List;
 
-public class DataProviderCSV implements IDataProvider {
+public class DataProviderCSV implements IDataProviderCSV {
 
     private static final Logger log = LogManager.getLogger(DataProviderCSV.class.getName());
+    public DataProviderCSV() {
+    }
 
     private <T> List <T> loadBeans(T bean){
         List list = null;

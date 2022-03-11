@@ -21,10 +21,10 @@ public class Mongo {
                 MongoClientSettings.getDefaultCodecRegistry(),
                 CodecRegistries.fromProviders(PojoCodecProvider.builder()
                     .register(
-                            ClassModel.builder(AbsPojo.class)
+                            ClassModel.builder(AbsProducts.class)
                                     .enableDiscriminator(true)
                                     .build(),
-                            ClassModel.builder(Pojo.class)
+                            ClassModel.builder(Product.class)
                                     .enableDiscriminator(true)
                                     .build())
                     .automatic(true)
@@ -32,21 +32,21 @@ public class Mongo {
         );
 
 
-        MongoCollection <AbsPojo> collection = new MongoClient
+        MongoCollection <AbsProducts> collection = new MongoClient
                 (new MongoClientURI(Constants.MONGO_URI))
                 .getDatabase("Data")
                 .withCodecRegistry(codecRegistry)
-                .getCollection("Users",AbsPojo.class);
+                .getCollection("Users", AbsProducts.class);
 
 
-        AbsPojo pojo = collection.find(Filters.eq("_id",2)).first();
+        AbsProducts pojo = collection.find(Filters.eq("_id",2)).first();
         if (pojo != null){
-            System.out.println(pojo.getRole());
+            System.out.println(pojo.getSphere());
         } else {
-            collection.insertOne(new Pojo(1,"Rob", Pojo.Role.nana,Arrays.asList(
-                    new Pojo(2,"Max", Pojo.Role.haha, null),
-                    new Pojo(3,"Kate", Pojo.Role.lala, null),
-                    new Pojo(4,"Ben", Pojo.Role.tada, null)
+            collection.insertOne(new Product(1,"Rob", Product.Sphere.nana,Arrays.asList(
+                    new Product(2,"Max", Product.Sphere.haha, null),
+                    new Product(3,"Kate", Product.Sphere.lala, null),
+                    new Product(4,"Ben", Product.Sphere.tada, null)
                     )));
         }
 

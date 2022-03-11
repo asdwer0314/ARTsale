@@ -3,11 +3,11 @@ package ru.sfedu.lab6Mongo;
 import org.bson.codecs.pojo.annotations.BsonDiscriminator;
 
 @BsonDiscriminator
-public interface AbsPojo {
+public interface AbsProducts {
 
-    Pojo.Role getRole();
+    Product.Sphere getSphere();
     String getName();
     int getId();
-    AbsPojo Mirror();
+    AbsProducts Mirror();
 
 }

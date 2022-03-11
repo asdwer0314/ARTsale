@@ -2,7 +2,7 @@ package ru.sfedu.lab3CSV;
 
 import java.util.List;
 
-public interface IDataProvider {
+public interface IDataProviderCSV {
 
     List<Users> selectUsers();
     Users getById(long userId);

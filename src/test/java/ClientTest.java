@@ -1,10 +1,10 @@
-import org.junit.Assert;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.sfedu.Client;
 import ru.sfedu.lab3CSV.DataProviderCSV;
 import ru.sfedu.lab3CSV.Users;
-
+import org.junit.Assert;
 import java.io.IOException;
 import java.util.List;
 import org.apache.logging.log4j.LogManager;
@@ -15,7 +15,7 @@ class ClientTest {
 
     private static final Logger log = LogManager.getLogger(DataProviderCSV.class.getName());
     DataProviderCSV dpc = new DataProviderCSV();
-
+    static Users users = new Users(3,"Rob","1-855-835-7621","non@Lorem.edu");
 
     @Test
     public void testUsersSelect(){
@@ -35,7 +35,6 @@ class ClientTest {
 
     @Test
     public void testUsersInsert() {
-        Users users = new Users(3,"Rob","1-855-835-7621","non@Lorem.edu");
         dpc.insertUsers(users);
         testUsersSelect();
         dpc.deleteUsersById(2);
@@ -44,9 +43,9 @@ class ClientTest {
 
     @Test
     public void testUsersUpdate() {
-        Users users = new Users(3,"Rob","1-855-835-7621","non@Lorem.edu");
+        /*Users users = new Users(3,"Rob","1-855-835-7621","non@Lorem.edu");
         dpc.insertUsers(users);
-        testUsersSelect();
+        testUsersSelect();*/
         Users users_2 = new Users(2,"Sam","1-855-835-7621","non@Lorem.edu");
         dpc.updateUsersById(3, users_2);
         testUsersSelect();
@@ -55,9 +54,9 @@ class ClientTest {
 
     @Test
     public void testUsersDelete() {
-        //Users users = new Users(3,"Sam","1-855-835-7621","non@Lorem.edu");
-        //dpc.insertUsers(users);
-        //testUsersSelect();
+        /*Users users = new Users(3,"Sam","1-855-835-7621","non@Lorem.edu");
+        dpc.insertUsers(users);
+        testUsersSelect();*/
         dpc.deleteUsersById(3);
         dpc.deleteUsersById(2);
         testUsersSelect();
@@ -71,4 +70,10 @@ class ClientTest {
             e.printStackTrace();
         }
     }
+
+    /*@Test
+    public void testUsersInsertWrong(){
+
+    }*/
+
 }
