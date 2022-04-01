@@ -2,9 +2,12 @@ ru\sfedu\Constants.class
 utils\ConfigurationUtil.class
 ru\sfedu\Client.class
 ru\sfedu\lab3CSV\DataProviderCSV.class
-ru\sfedu\lab3CSV\IDataProvider.class
-ru\sfedu\lab6Mongo\Pojo$Role.class
-ru\sfedu\lab6Mongo\Pojo.class
+ru\sfedu\lab6Mongo\Product$Sphere.class
+ru\sfedu\lab5jdbc\IDataProvidecJDBC.class
+ru\sfedu\lab6Mongo\Product.class
+ru\sfedu\lab5jdbc\DataProviderJDBC.class
+ru\sfedu\lab3CSV\IDataProviderCSV.class
+ru\sfedu\lab5jdbc\Orders.class
 ru\sfedu\lab6Mongo\Mongo.class
+ru\sfedu\lab6Mongo\AbsProducts.class
 ru\sfedu\lab3CSV\Users.class
-ru\sfedu\lab6Mongo\AbsPojo.class

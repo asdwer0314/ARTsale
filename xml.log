@@ -1,426 +1,1099 @@
-03.11 12.39.19 DEBUG	ru.sfedu.Client:33 - Project starting application.......
-03.11 12.39.19  INFO	ru.sfedu.Client:34 - nana
-03.11 12.39.19  INFO	ru.sfedu.Client:35 - tada
-03.11 12.39.19  INFO	ru.sfedu.Client:36 - null
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.39.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.40.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Klara
-03.11 12.40.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.40.51  INFO	ru.sfedu.lab3CSV.DataProviderCSV:23 - Jennifer Buchanan
-03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer Buchanan
-03.11 12.48.42  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.49.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Kate
-03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Kate
-03.11 12.53.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.53.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.53.44  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 12.53.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.53.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 12.54.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 12.54.30 DEBUG	ru.sfedu.Client:33 - Project starting application.......
-03.11 12.54.30  INFO	ru.sfedu.Client:34 - nana
-03.11 12.54.30  INFO	ru.sfedu.Client:35 - tada
-03.11 12.54.30  INFO	ru.sfedu.Client:36 - null
-03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer Buchanan
-03.11 13.35.04  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.35.38  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.35.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.35.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.35.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.35.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.37.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.37.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.42.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.42.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.43.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.43.18  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.43.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.44.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.44.25  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.44.25  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.46.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.47.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Celeste
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Jennifer
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 13.49.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 13.51.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.01.40  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.03.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.04.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.05.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.06.49  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.12.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.13.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.28  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.25.59  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.00  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.48  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - 
-03.11 14.26.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.31.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.31.26  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.34.12  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 0
-03.11 14.37.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - null
-03.11 14.37.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.37.37  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.37.37  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.38.19 DEBUG	ru.sfedu.Client:33 - Project starting application.......
-03.11 14.38.19  INFO	ru.sfedu.Client:34 - nana
-03.11 14.38.19  INFO	ru.sfedu.Client:35 - tada
-03.11 14.38.19  INFO	ru.sfedu.Client:36 - null
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.40.02  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.40.50  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.41.14  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
-03.11 14.43.52  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.44.34  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.45.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
-03.11 14.45.27  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.45.58  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.46.08  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.46.22  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.46.31  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.46.54  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
-03.11 14.47.21  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.48.17  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.48.36  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Sam
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 14.48.46  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 14.49.16  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 14.49.29 DEBUG	ru.sfedu.Client:33 - Project starting application.......
-03.11 14.49.29  INFO	ru.sfedu.Client:34 - nana
-03.11 14.49.29  INFO	ru.sfedu.Client:35 - tada
-03.11 14.49.29  INFO	ru.sfedu.Client:36 - null
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 2
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 17.09.10  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 17.19.15  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 17.22.24  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Max
-03.11 17.22.32  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 4
-03.11 17.22.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.22.45  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 17.43.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 17.43.05  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 18.28.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Klara
-03.11 18.28.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 1
-03.11 18.28.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:24 - Rob
-03.11 18.28.57  INFO	ru.sfedu.lab3CSV.DataProviderCSV:25 - 3
+03.12 16.17.19  INFO	ru.sfedu.Client:51 - User Home Directory: C:\Users\Polina
+03.12 16.17.19  INFO	ru.sfedu.Client:52 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 16.17.19  INFO	ru.sfedu.Client:53 - Test INFO logging.
+03.12 16.18.01 DEBUG	ru.sfedu.Client:35 - Project starting application.......
+03.12 16.18.01  INFO	ru.sfedu.Client:36 - nana
+03.12 16.18.01  INFO	ru.sfedu.Client:37 - tada
+03.12 16.18.01  INFO	ru.sfedu.Client:38 - null
+03.12 16.18.01  INFO	ru.sfedu.Client:43 - Launching the application...
+03.12 16.18.01  INFO	ru.sfedu.Client:44 - Operating System: Windows 10 10.0
+03.12 16.18.01  INFO	ru.sfedu.Client:47 - JRE: 15
+03.12 16.18.01  INFO	ru.sfedu.Client:48 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 16.18.01  INFO	ru.sfedu.Client:49 - Class Path: C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 16.18.01  INFO	ru.sfedu.Client:50 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 16.18.01  INFO	ru.sfedu.Client:51 - User Home Directory: C:\Users\Polina
+03.12 16.18.01  INFO	ru.sfedu.Client:52 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 16.18.01  INFO	ru.sfedu.Client:53 - Test INFO logging.
+03.12 16.20.35 DEBUG	ru.sfedu.Client:35 - Project starting application.......
+03.12 16.20.35  INFO	ru.sfedu.Client:36 - nana
+03.12 16.20.35  INFO	ru.sfedu.Client:37 - tada
+03.12 16.20.35  INFO	ru.sfedu.Client:38 - null
+03.12 16.20.35  INFO	ru.sfedu.Client:41 - Launching the application...
+03.12 16.20.35  INFO	ru.sfedu.Client:42 - Operating System: Windows 10 10.0
+03.12 16.20.35  INFO	ru.sfedu.Client:45 - JRE: 15
+03.12 16.20.35  INFO	ru.sfedu.Client:46 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 16.20.35  INFO	ru.sfedu.Client:47 - Class Path: C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 16.20.35  INFO	ru.sfedu.Client:48 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 16.20.35  INFO	ru.sfedu.Client:49 - User Home Directory: C:\Users\Polina
+03.12 16.20.35  INFO	ru.sfedu.Client:50 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 16.20.35  INFO	ru.sfedu.Client:51 - Test INFO logging.
+03.12 16.21.54 DEBUG	ru.sfedu.Client:35 - Project starting application.......
+03.12 16.21.54  INFO	ru.sfedu.Client:36 - nana
+03.12 16.21.54  INFO	ru.sfedu.Client:37 - tada
+03.12 16.21.54  INFO	ru.sfedu.Client:38 - null
+03.12 16.21.54  INFO	ru.sfedu.Client:41 - Launching the application...
+03.12 16.21.54  INFO	ru.sfedu.Client:42 - Operating System: Windows 10 10.0
+03.12 16.21.54  INFO	ru.sfedu.Client:45 - JRE: 15
+03.12 16.21.54  INFO	ru.sfedu.Client:46 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 16.21.54  INFO	ru.sfedu.Client:47 - Class Path: C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 16.21.54  INFO	ru.sfedu.Client:48 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 16.21.54  INFO	ru.sfedu.Client:49 - User Home Directory: C:\Users\Polina
+03.12 16.21.54  INFO	ru.sfedu.Client:50 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 16.21.54  INFO	ru.sfedu.Client:51 - Test INFO logging.
+03.12 21.04.53 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.04.53  INFO	ru.sfedu.Client:35 - nana
+03.12 21.04.53  INFO	ru.sfedu.Client:36 - tada
+03.12 21.04.53  INFO	ru.sfedu.Client:37 - null
+03.12 21.04.53  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.04.53  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.04.53  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.04.53  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.04.53  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.04.53  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.04.53  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.04.53  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.04.53  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.05.22 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.05.22  INFO	ru.sfedu.Client:35 - nana
+03.12 21.05.22  INFO	ru.sfedu.Client:36 - tada
+03.12 21.05.22  INFO	ru.sfedu.Client:37 - null
+03.12 21.05.22  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.05.22  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.05.22  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.05.22  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.05.22  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.05.22  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.05.22  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.05.22  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.05.22  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.05.47 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.05.47  INFO	ru.sfedu.Client:35 - nana
+03.12 21.05.47  INFO	ru.sfedu.Client:36 - tada
+03.12 21.05.47  INFO	ru.sfedu.Client:37 - null
+03.12 21.05.47  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.05.47  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.05.47  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.05.47  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.05.47  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.05.47  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.05.47  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.05.47  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.05.47  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.06.15 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.06.15  INFO	ru.sfedu.Client:35 - nana
+03.12 21.06.15  INFO	ru.sfedu.Client:36 - tada
+03.12 21.06.15  INFO	ru.sfedu.Client:37 - null
+03.12 21.06.15  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.06.15  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.06.15  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.06.15  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.06.15  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.06.15  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.06.15  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.06.15  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.06.15  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.07.31 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.07.31  INFO	ru.sfedu.Client:35 - nana
+03.12 21.07.31  INFO	ru.sfedu.Client:36 - tada
+03.12 21.07.31  INFO	ru.sfedu.Client:37 - null
+03.12 21.07.31  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.07.31  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.07.31  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.07.31  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.07.31  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.07.31  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.07.31  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.07.31  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.07.31  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.07.51 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.07.51  INFO	ru.sfedu.Client:35 - nana
+03.12 21.07.51  INFO	ru.sfedu.Client:36 - tada
+03.12 21.07.51  INFO	ru.sfedu.Client:37 - null
+03.12 21.07.51  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.07.51  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.07.51  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.07.51  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.07.51  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.07.51  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.07.51  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.07.51  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.07.51  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.09.11 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.09.11  INFO	ru.sfedu.Client:35 - nana
+03.12 21.09.11  INFO	ru.sfedu.Client:36 - tada
+03.12 21.09.11  INFO	ru.sfedu.Client:37 - null
+03.12 21.09.11  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.09.11  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.09.11  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.09.11  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.09.11  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.09.11  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.09.11  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.09.11  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.09.11  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.12 21.11.40 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.12 21.11.40  INFO	ru.sfedu.Client:35 - nana
+03.12 21.11.40  INFO	ru.sfedu.Client:36 - tada
+03.12 21.11.40  INFO	ru.sfedu.Client:37 - null
+03.12 21.11.40  INFO	ru.sfedu.Client:40 - Launching the application...
+03.12 21.11.40  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.12 21.11.40  INFO	ru.sfedu.Client:44 - JRE: 15
+03.12 21.11.40  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.12 21.11.40  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.12 21.11.40  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.12 21.11.40  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.12 21.11.40  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.12 21.11.40  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.13 11.04.31 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.04.31  INFO	ru.sfedu.Client:35 - nana
+03.13 11.04.31  INFO	ru.sfedu.Client:36 - tada
+03.13 11.04.31  INFO	ru.sfedu.Client:37 - null
+03.13 11.04.31  INFO	ru.sfedu.Client:40 - Launching the application...
+03.13 11.04.31  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.13 11.04.31  INFO	ru.sfedu.Client:44 - JRE: 15
+03.13 11.04.31  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-15
+03.13 11.04.31  INFO	ru.sfedu.Client:46 - Class Path: C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.2\junit-platform-launcher-1.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\vintage\junit-vintage-engine\5.8.2\junit-vintage-engine-5.8.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\junit\lib\junit-rt.jar;C:\Users\Polina\IdeaProjects\Kotelnikova\target\test-classes;C:\Users\Polina\IdeaProjects\Kotelnikova\target\classes;C:\Users\Polina\.m2\repository\org\mongodb\mongo-java-driver\3.12.10\mongo-java-driver-3.12.10.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\Polina\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;C:\Users\Polina\.m2\repository\com\opencsv\opencsv\5.5.2\opencsv-5.5.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\Polina\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\Polina\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Polina\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Polina\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Polina\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Polina\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Polina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Polina\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Polina\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;C:\Users\Polina\.m2\repository\org\postgresql\postgresql\42.2.10\postgresql-42.2.10.jar
+03.13 11.04.31  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-16.0.2\bin;.
+03.13 11.04.31  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.13 11.04.31  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.13 11.04.31  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.13 11.05.05 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.05.05  INFO	ru.sfedu.Client:35 - nana
+03.13 11.05.05  INFO	ru.sfedu.Client:36 - tada
+03.13 11.05.05  INFO	ru.sfedu.Client:37 - src/main/resources/environment.properties
+03.13 11.05.05  INFO	ru.sfedu.Client:40 - Launching the application...
+03.13 11.05.05  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.13 11.05.05  INFO	ru.sfedu.Client:44 - JRE: 16.0.2
+03.13 11.05.05  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-16.0.2
+03.13 11.05.05  INFO	ru.sfedu.Client:46 - Class Path: out/artifacts/Kotelnikova_jar/Kotelnikova.jar
+03.13 11.05.05  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-16.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Java\jdk-11.0.13\bin;.
+03.13 11.05.05  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.13 11.05.05  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.13 11.05.05  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.13 11.06.37 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.06.37  INFO	ru.sfedu.Client:35 - nana
+03.13 11.06.37  INFO	ru.sfedu.Client:36 - tada
+03.13 11.06.37  INFO	ru.sfedu.Client:37 - src/main/resources/environment.properties
+03.13 11.06.37  INFO	ru.sfedu.Client:40 - Launching the application...
+03.13 11.06.37  INFO	ru.sfedu.Client:41 - Operating System: Windows 10 10.0
+03.13 11.06.37  INFO	ru.sfedu.Client:44 - JRE: 16.0.2
+03.13 11.06.37  INFO	ru.sfedu.Client:45 - Java Launched From: C:\Program Files\Java\jdk-16.0.2
+03.13 11.06.37  INFO	ru.sfedu.Client:46 - Class Path: out/artifacts/Kotelnikova_jar/Kotelnikova.jar
+03.13 11.06.37  INFO	ru.sfedu.Client:47 - Library Path: C:\Program Files\Java\jdk-16.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Polina\AppData\Local\Programs\Python\Python37-32\;C:\Users\Polina\AppData\Local\Microsoft\WindowsApps;C:\Users\Polina\AppData\Roaming\npm;C:\Users\Polina\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\adb;C:\Program Files\Java\Maven\apache-maven-3.8.3\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.2\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Java\jdk-11.0.13\bin;.
+03.13 11.06.37  INFO	ru.sfedu.Client:48 - User Home Directory: C:\Users\Polina
+03.13 11.06.37  INFO	ru.sfedu.Client:49 - User Working Directory: C:\Users\Polina\IdeaProjects\Kotelnikova
+03.13 11.06.37  INFO	ru.sfedu.Client:50 - Test INFO logging.
+03.13 11.07.13 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.07.13  INFO	ru.sfedu.Client:35 - nana
+03.13 11.07.13  INFO	ru.sfedu.Client:36 - tada
+03.13 11.07.13  INFO	ru.sfedu.Client:37 - src/main/resources/environment.properties
+03.13 11.07.25 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.07.25  INFO	ru.sfedu.Client:35 - hahaha
+03.13 11.07.25  INFO	ru.sfedu.Client:36 - lalala
+03.13 11.07.25  INFO	ru.sfedu.Client:37 - src/main/resources/env.properties
+03.13 11.07.48 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 11.07.48  INFO	ru.sfedu.Client:35 - nana
+03.13 11.07.48  INFO	ru.sfedu.Client:36 - tada
+03.13 11.07.48  INFO	ru.sfedu.Client:37 - null
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.13 21.18.05  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.13 21.18.38  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.13 21.18.38  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.13 21.18.38  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.13 21.18.38  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.13 21.40.49 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.13 21.40.49  INFO	ru.sfedu.Client:35 - nana
+03.13 21.40.49  INFO	ru.sfedu.Client:36 - tada
+03.13 21.40.49  INFO	ru.sfedu.Client:37 - null
+03.14 00.41.22 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 00.41.23  INFO	ru.sfedu.Client:35 - nana
+03.14 00.41.23  INFO	ru.sfedu.Client:36 - tada
+03.14 00.41.23  INFO	ru.sfedu.Client:37 - null
+03.14 00.41.34 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 00.41.34  INFO	ru.sfedu.Client:35 - nana
+03.14 00.41.34  INFO	ru.sfedu.Client:36 - tada
+03.14 00.41.34  INFO	ru.sfedu.Client:37 - null
+03.14 00.43.05 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 00.43.05  INFO	ru.sfedu.Client:35 - nana
+03.14 00.43.05  INFO	ru.sfedu.Client:36 - tada
+03.14 00.43.05  INFO	ru.sfedu.Client:37 - null
+03.14 00.43.17 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 00.43.17  INFO	ru.sfedu.Client:35 - nana
+03.14 00.43.17  INFO	ru.sfedu.Client:36 - tada
+03.14 00.43.17  INFO	ru.sfedu.Client:37 - null
+03.14 00.43.45 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 00.43.45  INFO	ru.sfedu.Client:35 - nana
+03.14 00.43.45  INFO	ru.sfedu.Client:36 - tada
+03.14 00.43.45  INFO	ru.sfedu.Client:37 - null
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:39 - запись добавлена
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 1
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Rob
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 3
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.03  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 1
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Rob
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 3
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Max
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 4
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:23 - Klara
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:24 - 2
+03.14 06.22.40  INFO	ru.sfedu.api.DataProviderCSV:41 - запись добавлена
+03.14 06.26.12  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.12  INFO	ru.sfedu.api.DataProviderCSV:26 - 1
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 1
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Rob
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 3
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Max
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 4
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:25 - Klara
+03.14 06.26.27  INFO	ru.sfedu.api.DataProviderCSV:26 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.27.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:41 - запись добавлена
+03.14 06.31.54  INFO	ru.sfedu.api.DataProviderCSV:43 - запись удалена
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.30  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.32.49  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.33.21  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.34.29  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.35.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.16  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.36.56  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Rob
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 3
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Max
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.52.53  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.53.34  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.11  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.54.57  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:63 - запись добавлена
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.03  INFO	ru.sfedu.api.DataProviderCSV:68 - запись добавлена
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 2
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Sam
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 4
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:63 - запись добавлена
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:24 - Klara
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:25 - 1
+03.14 06.56.33  INFO	ru.sfedu.api.DataProviderCSV:68 - запись добавлена
+03.14 07.27.41  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.33.09  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.33.22  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.33.43  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.34.09  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.35.02  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.35.02  INFO	ru.sfedu.api.DataProviderCSV:93 - not ok
+03.14 07.35.14  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.35.14  INFO	ru.sfedu.api.DataProviderCSV:93 - not ok
+03.14 07.41.05  INFO	ru.sfedu.api.DataProviderCSV:93 - ok
+03.14 07.41.05  INFO	ru.sfedu.api.DataProviderCSV:94 - not ok
+03.14 07.41.19  INFO	ru.sfedu.api.DataProviderCSV:93 - ok
+03.14 07.41.19  INFO	ru.sfedu.api.DataProviderCSV:94 - not ok
+03.14 07.43.51  INFO	ru.sfedu.api.DataProviderCSV:92 - ok
+03.14 07.43.51  INFO	ru.sfedu.api.DataProviderCSV:93 - not ok
+03.14 07.45.26  INFO	ru.sfedu.api.DataProviderCSV:93 - ok
+03.14 07.45.39  INFO	ru.sfedu.api.DataProviderCSV:93 - ok
+03.14 07.46.13  INFO	ru.sfedu.api.DataProviderCSV:94 - ok
+03.14 07.46.43  INFO	ru.sfedu.api.DataProviderCSV:94 - ok
+03.14 07.46.54  INFO	ru.sfedu.api.DataProviderCSV:94 - ok
+03.14 07.47.16  INFO	ru.sfedu.api.DataProviderCSV:94 - ok
+03.14 07.49.04  INFO	ru.sfedu.api.DataProviderCSV:91 - false
+03.14 07.50.14 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 07.50.14  INFO	ru.sfedu.Client:35 - nana
+03.14 07.50.14  INFO	ru.sfedu.Client:36 - tada
+03.14 07.50.14  INFO	ru.sfedu.Client:37 - src/main/resources/environment.properties
+03.14 07.50.23 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 07.50.23  INFO	ru.sfedu.Client:35 - hahaha
+03.14 07.50.23  INFO	ru.sfedu.Client:36 - lalala
+03.14 07.50.23  INFO	ru.sfedu.Client:37 - src/main/resources/env.properties
+03.14 07.50.40 DEBUG	ru.sfedu.Client:34 - Project starting application.......
+03.14 07.50.40  INFO	ru.sfedu.Client:35 - nana
+03.14 07.50.40  INFO	ru.sfedu.Client:36 - tada
+03.14 07.50.40  INFO	ru.sfedu.Client:37 - null
+03.14 09.02.00  INFO	ru.sfedu.api.DataProviderCSV:107 - not ok
+03.14 09.02.21  INFO	ru.sfedu.api.DataProviderCSV:107 - not ok
+03.14 09.03.48  INFO	ru.sfedu.api.DataProviderCSV:107 - not ok
+03.14 09.39.58  INFO	ru.sfedu.api.DataProviderCSV:107 - not ok
+03.14 09.44.13  INFO	ru.sfedu.api.DataProviderCSV:97 - not ok
+03.14 09.44.35  INFO	ru.sfedu.api.DataProviderCSV:97 - not ok
+03.14 11.36.26 DEBUG	ru.sfedu.Client:47 - Project starting application.......
+03.14 11.36.26  INFO	ru.sfedu.Client:48 - nana
+03.14 11.36.26  INFO	ru.sfedu.Client:49 - tada
+03.14 11.36.26  INFO	ru.sfedu.Client:50 - src/main/resources/environment.properties
+03.14 11.36.45 DEBUG	ru.sfedu.Client:47 - Project starting application.......
+03.14 11.36.45  INFO	ru.sfedu.Client:48 - hahaha
+03.14 11.36.45  INFO	ru.sfedu.Client:49 - lalala
+03.14 11.36.45  INFO	ru.sfedu.Client:50 - src/main/resources/env.properties
+03.14 11.37.03 DEBUG	ru.sfedu.Client:47 - Project starting application.......
+03.14 11.37.03  INFO	ru.sfedu.Client:48 - nana
+03.14 11.37.03  INFO	ru.sfedu.Client:49 - tada
+03.14 11.37.03  INFO	ru.sfedu.Client:50 - null
+03.15 18.05.28 DEBUG	ru.sfedu.Client:77 - Project starting application.......
+03.15 18.05.28  INFO	ru.sfedu.Client:78 - nana
+03.15 18.05.28  INFO	ru.sfedu.Client:79 - tada
+03.15 18.05.28  INFO	ru.sfedu.Client:80 - null
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Max
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:69 - запись добавлена
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.08.33  INFO	ru.sfedu.api.DataProviderCSV:74 - запись добавлена
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 2
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:69 - запись добавлена
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.09.18  INFO	ru.sfedu.api.DataProviderCSV:74 - запись добавлена
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:27 - Sam
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:28 - 4
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:69 - запись добавлена
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:28 - 1
+03.15 18.09.36  INFO	ru.sfedu.api.DataProviderCSV:74 - запись добавлена
+03.15 18.10.30  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.10.54  INFO	ru.sfedu.api.DataProviderCSV:27 - Klara
+03.15 18.11.30  INFO	ru.sfedu.api.DataProviderCSV:27 - пользователь 
+03.15 18.15.18  INFO	ru.sfedu.api.DataProviderCSV:27 - пользователь Klara,1
+03.15 18.15.57  INFO	ru.sfedu.api.DataProviderCSV:27 - 1, Klara
+03.15 18.16.15  INFO	ru.sfedu.api.DataProviderCSV:27 - 1    Klara
+03.15 18.17.40  INFO	ru.sfedu.api.DataProviderCSV:27 - 1    Klara
+03.15 18.17.40  INFO	ru.sfedu.api.DataProviderCSV:27 - 3    Rob
+03.15 18.17.48  INFO	ru.sfedu.api.DataProviderCSV:27 - 1    Klara
+03.15 18.17.48  INFO	ru.sfedu.api.DataProviderCSV:27 - 3    Rob
+03.15 18.18.09  INFO	ru.sfedu.api.DataProviderCSV:27 - 1    Klara
+03.15 18.18.09  INFO	ru.sfedu.api.DataProviderCSV:27 - 12    Ben
+03.15 18.19.12  INFO	ru.sfedu.api.DataProviderCSV:27 - 1    Klara
+03.15 18.19.12  INFO	ru.sfedu.api.DataProviderCSV:27 - 3    Rob
